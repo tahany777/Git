@@ -8,7 +8,7 @@
 
 ### **Basic Commands :**
 
-* **$ git init**//Initialize local git repository
+* **$ git init** //Initialize local git repository
 * **$ git add <file>** // Add files to index
 * **$ git status** // Check status of working tree
 * **$ git commit** // Commit changes in index
